@@ -1,0 +1,134 @@
+body{
+    background: url(./img/24.Jul.2019-oboi-mstiteli-vojna-beskonechnosti.jpg);
+
+}
+#list{
+    height: 10000px;
+    background-color: aqua;
+}
+table{
+    width: 1000px;
+    height: 700px;
+    border: 3px solid black;
+    margin: auto;
+    margin-top: 100px;
+    display: flex;
+    flex-wrap: wrap;
+    align-content: space-around;
+    justify-content: space-evenly;
+}
+table div{
+    width: 150px;
+    height: 150px;
+    border: 1px solid black;
+    background-size: 100%;
+    color: rgb(255, 255, 255);
+    font-size: 30px;
+    
+}
+input{
+    margin-top: 122px;
+    margin-left: 5px;
+    width: 132px;
+    background-color: rgba(0, 0, 0, 0.575);
+    color: white;
+}
+.div_1{
+    background: url(./img/1540377697_pervyy-mstitel-dost-vse-12.jpg);
+    background-size: 100%;
+}
+.div_2{
+    background: url(./img/0dbded4badf5d793a862d2315e52a457.jpeg);
+    background-size: 100%
+}
+.div_3{
+    background: url(./img/1c431449c520bd5116e85e34f40d4f1e.jpg);
+    background-size: 100%
+}
+.div_4{
+    background: url(./img/2_20.jpg);
+    background-size: 200%;
+    background-position-x: 30%;
+}
+.div_5{
+    background: url(./img/Без\ названия.jpg);
+    background-size: 100%
+}
+.div_6{
+    background: url(./img/90ed8ed3c735864e45d01d2c600ec70c.jpg);
+    background-size: 100%
+}
+.div_7{
+    background: url(./img/GR1g8nE1PEyGKGMzDWdF3Q.jpeg);
+    background-size: 100%
+}
+.div_8{
+    background: url(./img/3cd6011fc071b97145d00936f82836e0.jpg);
+    background-size: 100%
+}
+.div_9{
+    background: url(./img/1b88e67664a2565fa5fe2932bb73088fa064a20av2_00.jpg);
+    background-size: 100%
+}
+.div_10{
+    background: url(./img/3c0bb91e61fd978c41d3cda4b98262613ab9cf7c_00.jpg);
+    background-size: 110%;
+    background-position-x: center;
+}
+.div_11{
+    background: url(./img/457f755a12d15cb4cf5116f6af45c92b35cee95ar1-600-600v2_uhq.jpg);
+    background-size: 100%
+}
+.div_12{
+    background: url(./img/5abdfgd4d.jpg);
+    background-size: 100%;
+}
+.div_13{
+    background: url(./img/Josh_Brolin_as_Thanos.jpeg);
+    background-size: 120%
+}
+.div_14{
+    background: url(./img/213373e2206a56302ea0ca05513949a2a235dd73r1-553-823v2_uhq.jpg);
+    background-size: 100%
+}
+.div_15{
+    background: url(./img/Fkqzhofu_400x400.jpg);
+    background-size: 100%
+}
+.div_16{
+    background: url(./img/Star-Lord_Gotg_Textless_Poster.jpg);
+    background-size: 100%
+}
+.div_17{
+    background: url(./img/Без\ названия\ \(1\).jpg);
+    background-size: 100%
+}
+.div_18{
+    background: url(./img/CW_Textless_Shield_Poster_02.jpg);
+    background-size: 100%
+}
+.div_19{
+    background: url(./img/rabstol_net_iron_man_3_07.jpg);
+    background-size: 160%
+}
+.div_20{
+    background: url(./img/baki-barns-zimniy-soldat-1-1170x850.jpg);
+    background-size: 140%
+}
+.div_21{
+    background: url(./img/53c788cfad587.jpg);
+    background-size: 140%
+}
+.div_22{
+    background: url(./img/Yondu_Udonta_Vol._2.jpg);
+    background-size: 100%
+}
+.div_23{
+    background: url(./img/Без\ названия\ \(2\).jpg);
+    background-size: 100%
+}
+.div_24{
+    background: url(./img/822738.1200xp.jpg);
+    background-size: 160%;
+    background-position-x: 50%;
+}
